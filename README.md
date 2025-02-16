@@ -30,3 +30,7 @@ Cleaned Data – Removed duplicates, fixed missing values.
 Analyzed Trends – Used Pivot Tables & formulas.
 Created Dashboard – Visualized insights with charts.
 Derived Insights – Identified top products & sales patterns.
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/84b19bfa-b286-448d-9f1b-aa1790fe8b76)
+
