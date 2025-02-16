@@ -5,3 +5,20 @@ The objective of this project is to analyze Blinkit's grocery sales data to iden
 
 ## Dataset Used 
 - <a href="https://github.com/Rakshith2552/Data_Analysis_Dashboard/blob/main/BlinkIt_project.xlsx">Dataset</a>
+
+## Business Requirements
+To conduct a comprehensive analysis of Blinkit’s Sales Performance,Customer Satisfaction
+And inventory distribution to identify key insights and opportunities for optimization using various KPI’s 
+And visualization in MS Excel 
+
+## KPI’s
+- Total Sales of all Grocery sold 
+- Total No.of Items Sold 
+- Total Sales By Fat Content
+- Total Sales by Item Type
+- Sales By Outlet Size
+- Sales By Outlet Location
+- Average Revenue Pre Sales
+- Average Customer Rating
+- All metrics by outlet type
+
