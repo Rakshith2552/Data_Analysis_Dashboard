@@ -22,7 +22,7 @@ And visualization in MS Excel
 - Average Customer Rating
 - All metrics by outlet type
 
-- Dashboard Interaction<a href =”https://github.com/Rakshith2552/Data_Analysis_Dashboard/blob/main/Blinkit_DashBoard.png”>View Dashboard</a>
+- Dashboard Interaction<a href="https://github.com/Rakshith2552/Data_Analysis_Dashboard/blob/main/Blinkit_DashBoard.png">View Dashboard</a>
 
 ## Process
 Imported Data – Blinkit grocery sales data in Excel.
