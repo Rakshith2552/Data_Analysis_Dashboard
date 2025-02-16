@@ -22,3 +22,11 @@ And visualization in MS Excel
 - Average Customer Rating
 - All metrics by outlet type
 
+- Dashboard Interaction<a href =”https://github.com/Rakshith2552/Data_Analysis_Dashboard/blob/main/Blinkit_DashBoard.png”>View Dashboard</a>
+
+## Process
+Imported Data – Blinkit grocery sales data in Excel.
+Cleaned Data – Removed duplicates, fixed missing values.
+Analyzed Trends – Used Pivot Tables & formulas.
+Created Dashboard – Visualized insights with charts.
+Derived Insights – Identified top products & sales patterns.
